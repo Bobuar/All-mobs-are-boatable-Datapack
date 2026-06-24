@@ -1,0 +1,1 @@
+execute as @e[tag=cant_fit_in_boat,tag=in_boat] unless predicate horses_into_boats:got_vehicle run tag @s remove in_boat

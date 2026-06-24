@@ -1,0 +1,1 @@
+scoreboard objectives add riders_in_boat dummy
